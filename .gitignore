@@ -1,0 +1,8 @@
+obj/**
+lib/**
+tests/*test
+tests/*.o
+compile_flags.txt
+**~
+**.bak
+

@@ -1,0 +1,9 @@
+{
+    "int":123e2,
+    "float":1.4e-3,
+    "array": [1, 2, [3, 4]],
+    "array2": [ { "a":1} , { "b" :2}, { "c" : 3 } ],
+    "bool":"true",
+    "bool2": "false",
+    "null": "null"
+}
