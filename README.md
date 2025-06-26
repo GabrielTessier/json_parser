@@ -1,3 +1,5 @@
+JSON grammar : https://www.crockford.com/mckeeman.html
+
 ## Installation
 ```sh
 # Clone le repo
