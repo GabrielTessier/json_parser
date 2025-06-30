@@ -20,6 +20,7 @@ cd tests
 Option à ajouter à gcc :
 - `-Lpath/to/repo/lib -ljson`
 - `-Ipath/to/repo/include`
+
 (en remplaçant `path/to/repo` par le chemin vers le repo `json_parser`)
 
 Ajouter l'entête `#include <json.h>` dans les fichiers `.c`
